@@ -29,3 +29,8 @@
 ## 書籍
 ### オブジェクト指向関連
 - オブジェクト指向入門 第2版 原則・コンセプト
+
+## ツール
+影響スケッチを自動で描画してくれるツール
+- [jig](https://github.com/dddjava/jig)
+- [テクマトリックス社のUnderstand（市販の製品）](https://www.techmatrix.co.jp/product/understand/usecases/usecase_Influence.html)
