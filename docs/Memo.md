@@ -1,13 +1,16 @@
 # Memo
 - HikariCPとは
+- ロガーの名前の指定方法（パッケージ名+慣例的にクラス名）
+  - プロになるためのSpring入門：P348参照
+- Jackson
+- HttpStatus.NO_CONTENT(Enum)
+- HttpHeaders.USER_AGENT
 
 [Docker Hab](https://hub.docker.com)
 
 ## 設計の原則を知ること
 - 設計の幅が広がる
 - 何でこのような機能が **用意されている** かを理解できる
-
-## 
 
 ## IT英単語
 |単語|意味|
