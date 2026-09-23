@@ -102,7 +102,7 @@ Content-Type: application/json
 @Controller
 public class TrainingAdminRestController {
     ...
-    @GetMapping(/api/trainings/{id})
+    @GetMapping("/api/trainings/{id}")
     @ResponseBody
     public Training getTraining(@PathVariable String id) {
         return trainingAdminService.findById(id);
